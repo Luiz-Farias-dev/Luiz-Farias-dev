@@ -1,9 +1,8 @@
-### Olá, eu sou o Luiz Farias 👋
+### Hi, my name is Luiz Farias 👋
 
-- 🔭 Hoje trabalho com front-end.
-- 🌱 Estudando React com Typescript.
-- 👯 Procuro vaga como desenvolvedor junior para contribuir e me desenvolver no processo.
-- 😄 Pronouns: ele/dele
+- 🔭 I work as a front-end developer.
+- ⚛️ Currently studying Reactjs.
+- 💻 I'm looking for oportunities as a Junior to develop my skills.
 
 <div align="center">
   <a href="https://github.com/Luiz-Farias-dev">
