@@ -2,7 +2,6 @@
 
 - 🔭 I work as a front-end developer.
 - ⚛️ Currently studying Reactjs.
-- 💻 I'm looking for oportunities as a Junior to develop my skills.
 
 <div align="center">
   <a href="https://github.com/Luiz-Farias-dev">
