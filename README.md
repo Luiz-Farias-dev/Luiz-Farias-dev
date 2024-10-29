@@ -1,3 +1,3 @@
 ### Hi, my name is Luiz Farias 👋
-- Currently studying Java 
+- Focusing in Javascript, Angular, Java, Spring
 
