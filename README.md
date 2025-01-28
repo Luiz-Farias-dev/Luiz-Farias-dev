@@ -1,3 +1,3 @@
 ### Hi, my name is Luiz Farias 👋
-- Focusing in Javascript and Angular.
+- Focusing in Javascript, Angular, Java and Spring.
 
