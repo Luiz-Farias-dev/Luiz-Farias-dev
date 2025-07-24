@@ -1,5 +1,6 @@
-### Hi, my name is Luiz Farias 👋
-- Focusing on Java | Spring
+### Olá, me chamo Luiz Farias 👋
+- Desenvolvedor fullstack no Grupo Cortez (estágio)
+- Atualmente estudando Java | Spring
 
 <div align="left">
     
