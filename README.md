@@ -1,5 +1,4 @@
 ### Olá, me chamo Luiz Farias 👋
-- Desenvolvedor fullstack no Grupo Cortez (estágio)
 - Atualmente estudando Java | Spring
 
 <div align="left">
