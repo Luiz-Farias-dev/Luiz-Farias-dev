@@ -1,5 +1,5 @@
 ### Olá, me chamo Luiz Farias 👋
-- Atualmente estudando Java | Spring Boot
+- Atualmente estudando Java | Javascript | Spring Boot | Nodejs
 
 <div align="left">
     
