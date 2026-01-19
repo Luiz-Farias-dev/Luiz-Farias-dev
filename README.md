@@ -1,3 +1,2 @@
 ### Olá, me chamo Luiz Farias 👋
-- Desenvolvedor Javascript | Nodejs | Expressjs | Golang | Java | Spring Boot
-
+- Desenvolvedor Javascript | Typescript | Nodejs | Expressjs | Reactjs
