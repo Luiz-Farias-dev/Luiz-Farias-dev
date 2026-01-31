@@ -1,2 +1,2 @@
 ### Olá, me chamo Luiz Farias 👋
-- Desenvolvedor Javascript | Typescript | Nodejs | Expressjs | Reactjs
+- Desenvolvedor Javascript | Typescript | Nodejs | Expressjs | Nestjs | Jest | Reactjs
